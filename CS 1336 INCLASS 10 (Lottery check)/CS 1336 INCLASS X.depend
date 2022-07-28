@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645620250 source:c:\users\madua\onedrive\documents\c++\cs 1336 inclass x\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
